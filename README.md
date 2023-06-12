@@ -46,15 +46,15 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Tailwind](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%blue.svg?style=for-the-badge&logo=react&logoColor=black)
 
 <br>
 
 - **Mobile Development**:
 
-   ![Flutter](https://img.shields.io/badge/Flutter%20-%23E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/Flutter%20-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
    ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=white)
-   ![Firebase](https://img.shields.io/badge/Firebase%20-%231572B6.svg?style=for-the-badge&logo=firebase&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 <br>
 
