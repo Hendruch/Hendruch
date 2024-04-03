@@ -17,8 +17,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end and Mobile developer
-- Currently learning Web Development by Self
+- A passionate Software Engineer and security analyst intern
+- Currently finishing my bachelor's in Software Engineering (Graduating on June 2024)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/hendruch)
 
 <br><br>
@@ -37,6 +37,7 @@
     ![C#](https://img.shields.io/badge/Csharp%20-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
     
@@ -55,12 +56,26 @@
    ![Flutter](https://img.shields.io/badge/Flutter%20-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
    ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=white)
    ![Firebase](https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?style=for-the-badge&logo=firebase&logoColor=white)
+   ![React Native](https://img.shields.io/badge/React%20-%2300599C.svg?style=for-the-badge&logo=react&logoColor=black)
 
 <br>
 
-- **Cloud Hosting**:
+- **Cloud**:
 
-    ![Hostinger](https://img.shields.io/badge/Hostinger%20-%23327FC7.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS%20-%23327FC7.svg?style=for-the-badge&logo=aws&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure%20-%2300599C.svg?style=for-the-badge&logo=azure&logoColor=white)
+    
+<br>
+
+- **Security Tools**:
+
+    ![Crowdstrike](https://img.shields.io/badge/Crowdstrike%20-%23327FC7.svg?style=for-the-badge&logo=crowdstrike&logoColor=white)
+    ![Nessus](https://img.shields.io/badge/Nessus%20-%2300599C.svg?style=for-the-badge&logo=nessus&logoColor=white)
+    ![Splunk](https://img.shields.io/badge/Splunk%20-%2300599C.svg?style=for-the-badge&logo=splunk&logoColor=white)
+    ![Nikto](https://img.shields.io/badge/Nikto%20-%2300599C.svg?style=for-the-badge&logo=nikto&logoColor=white)
+    ![Vanta](https://img.shields.io/badge/Vanta%20-%2300599C.svg?style=for-the-badge&logo=vanta&logoColor=white)
+    ![Netskope](https://img.shields.io/badge/Netskope%20-%2300599C.svg?style=for-the-badge&logo=netskope&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash%20-%2300599C.svg?style=for-the-badge&logo=bash&logoColor=white)
     
 <br>
 
@@ -70,7 +85,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
