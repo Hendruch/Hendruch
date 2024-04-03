@@ -62,19 +62,19 @@
 
 - **Cloud**:
 
-    ![AWS](https://img.shields.io/badge/AWS%20-%FFFFFF.svg?style=for-the-badge&logo=aws&logoColor=black)
-    ![Azure](https://img.shields.io/badge/Azure%20-%2300599C.svg?style=for-the-badge&logo=azure&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%FFFFFF.svg?style=for-the-badge&logo=aws&logoColor=black)
+    ![Azure](https://img.shields.io/badge/Azure-2300599C.svg?style=for-the-badge&logo=azure&logoColor=white)
     
 <br>
 
 - **Security Tools**:
 
-    ![Crowdstrike](https://img.shields.io/badge/Crowdstrike%20-%FF0000.svg?style=for-the-badge&logo=crowdstrike&logoColor=white)
-    ![Nessus](https://img.shields.io/badge/Nessus%20-%FFFFFF.svg?style=for-the-badge&logo=nessus&logoColor=black)
-    ![Splunk](https://img.shields.io/badge/Splunk%20-%8CD877.svg?style=for-the-badge&logo=splunk&logoColor=white)
-    ![Nikto](https://img.shields.io/badge/Nikto%20-%FFFFFF.svg?style=for-the-badge&logo=nikto&logoColor=black)
-    ![Vanta](https://img.shields.io/badge/Vanta%20-%6103BF.svg?style=for-the-badge&logo=vanta&logoColor=white)
-    ![Netskope](https://img.shields.io/badge/Netskope%20-%FFFFFF.svg?style=for-the-badge&logo=netskope&logoColor=black)
+    ![Crowdstrike](https://img.shields.io/badge/Crowdstrike-FF0000.svg?style=for-the-badge&logo=crowdstrike&logoColor=white)
+    ![Nessus](https://img.shields.io/badge/Nessus-FFFFFF.svg?style=for-the-badge&logo=nessus&logoColor=black)
+    ![Splunk](https://img.shields.io/badge/Splunk-8CD877.svg?style=for-the-badge&logo=splunk&logoColor=white)
+    ![Nikto](https://img.shields.io/badge/Nikto-FFFFFF.svg?style=for-the-badge&logo=nikto&logoColor=black)
+    ![Vanta](https://img.shields.io/badge/Vanta-6103BF.svg?style=for-the-badge&logo=vanta&logoColor=white)
+    ![Netskope](https://img.shields.io/badge/Netskope-FFFFFF.svg?style=for-the-badge&logo=netskope&logoColor=black)
     ![Bash](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
 <br>
