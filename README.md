@@ -62,8 +62,8 @@
 
 - **Cloud**:
 
-    ![AWS](https://img.shields.io/badge/AWS-%FFFFFF.svg?style=for-the-badge&logo=aws&logoColor=black)
-    ![Azure](https://img.shields.io/badge/Azure-2300599C.svg?style=for-the-badge&logo=azure&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-FFFFFF.svg?style=for-the-badge&logo=aws&logoColor=black)
+    ![Azure](https://img.shields.io/badge/Azure-2D75B5.svg?style=for-the-badge&logo=azure&logoColor=white)
     
 <br>
 
